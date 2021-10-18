@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="15dp"
+    tools:context=".ImageUpload">
+
+
+
+    <Button
+        android:id="@+id/chooseImageButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Choose Image"
+
+
+        />
+
+    <Button
+        android:id="@+id/uploadImageButtonId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Upload"
+
+        />
+
+    <TextView
+        android:id="@+id/alertTextviewId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Here will be alert!"
+        android:textSize="20sp"
+        android:textColor="#4CAF50"
+        android:textAlignment="center"
+        android:layout_marginTop="50dp"
+        android:gravity="center_horizontal"
+        android:visibility="gone"
+        />
+
+</LinearLayout>

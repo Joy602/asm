@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "634835244980",
+    "firebase_url": "https://fw-wfwv-default-rtdb.firebaseio.com",
+    "project_id": "fw-wfwv",
+    "storage_bucket": "fw-wfwv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634835244980:android:e2e0b07e894436524744e1",
+        "android_client_info": {
+          "package_name": "com.example.splash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634835244980-iddtekde42c27u481v51ej52qbalco21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXoAqQ5bpAsnEQzHyUH4lAd1pv9tLpIrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634835244980-iddtekde42c27u481v51ej52qbalco21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

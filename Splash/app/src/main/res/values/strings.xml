@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SHA</string>
+    <string name="menu_item_setting">Setting</string>
+    <string name="menu_item_share">Share</string>
+    <string name="menu_item_feedback">Feedback</string>
+    <string name="menu_item_faq">FAQ</string>
+    <string name="device_name">Device Name:</string>
+    <string name="ip_address">Host/IP Address:</string>
+    <string name="ssh_string">SSH Port:</string>
+    <string name="username_string">Username:</string>
+</resources>
